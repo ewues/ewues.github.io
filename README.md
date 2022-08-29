@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/vIZwbSf.png)
 
-Download link : https://www.stremio.com/downloads
+Download link : [https://www.stremio.com/downloads](https://www.stremio.com/downloads)
 
 Note: VPN usage is strongly advised.
 ## Latest Update: Aug 29 2022
