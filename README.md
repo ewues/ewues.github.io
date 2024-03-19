@@ -1,4 +1,4 @@
-# Torentio Setup in Stremio
+# Torrentio Setup in Stremio
 
 ![alt text](https://i.imgur.com/vIZwbSf.png)
 
