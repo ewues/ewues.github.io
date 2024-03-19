@@ -7,7 +7,7 @@ Download link : [https://www.stremio.com/downloads](https://www.stremio.com/down
 Note: VPN usage is strongly advised.
 ## Latest Update: Aug 29 2022
 
-Instructions for streaming torrents on Stremio using Torentio:
+Instructions for streaming torrents on Stremio using Torrentio:
 
 <p align="left">
   <ul>
