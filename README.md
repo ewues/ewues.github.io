@@ -1,30 +1,27 @@
-# Torrentio Setup in Stremio
-
-![alt text](https://i.imgur.com/vIZwbSf.png)
+# Setup Torrentio in Stremio
 
 Download link : [https://www.stremio.com/downloads](https://www.stremio.com/downloads)
 
-Note: VPN usage is strongly advised.
-## Latest Update: Aug 29 2022
+Note: VPN usage is strongly advised if not using a debrider.
 
-Instructions for streaming torrents on Stremio using Torrentio:
+![alt text](https://i.imgur.com/Berb9mU.png)
+
+## Latest Update: Apr 26 2024
+
+How to use stremio to stream torrents with Torrentio:
 
 <p align="left">
   <ul>
-    <li>Go to the addons manager from the top right hand corner.</li>
-    <li>Click on "Offical Addons"</li>
-    <li>Search <code>Torrentio</code> and install.</li>
+    <li>Head over to https://torrentio.strem.fun/configure</li>
+    <li>Add/remove your prefered sources and video resolutions and click "Install". Stremio should open.</li>
   </ul>
 </p>
   
-![alt text](https://i.imgur.com/aHgjaI8.jpeg)
+![alt text](https://i.imgur.com/9S27HkW.png)
 
 <p align="left">
   <ul>
-    <li>Add/remove the wanted sources and video resolutions and click "Install".</li>
     <li>Now search for whatever movies/series you want and wait for the Addon to load links.</li>
-    <li>To edit sources and settings, click on the green settings icon next to the Addon.</li>
-    <li>Go to "My Addons" and select the one previously added.</li>
   </ul>
 </p>
 
