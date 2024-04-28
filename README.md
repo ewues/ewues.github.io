@@ -1,6 +1,6 @@
 # Setup Stremio with Torrentio (and Real-Debrid)
 
-## Stremio
+## 1/ Stremio
 
 <p align="left">
   <ul>
@@ -10,9 +10,9 @@
   </ul>
 </p>
 
-<img src="https://i.imgur.com/Berb9mU.png" width="632" height="379">
+![image](https://i.imgur.com/Berb9mU.png)
 
-## Torrentio
+## 2/ Torrentio
 <p align="left">
   <ul>
     <li>Go to https://torrentio.strem.fun/configure</li>
@@ -22,7 +22,7 @@
   </ul>
 </p>
 
-<img src="https://i.imgur.com/9S27HkW.png" width="632" height="379">
+![image](https://i.imgur.com/9S27HkW.png)
 
 ## Real Debird (optionnal)
 <p align="left">
@@ -35,9 +35,9 @@
   </ul>
 </p>
 
-<img src="https://i.imgur.com/gWsfZNg.png" width="489" height="326">
+![image](https://i.imgur.com/Zyf0QOt.png)
 
-## Stream
+## 3/ Stream
 
 <p align="left">
   <ul>
@@ -54,6 +54,6 @@
 
 Note: VPN usage is strongly advised if not using a debrider.
 
-<img src="https://i.imgur.com/m4SlP6O.png" width="632" height="379">
+![image](https://i.imgur.com/m4SlP6O.png)
 
 # Enjoy!
