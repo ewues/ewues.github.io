@@ -24,7 +24,7 @@
 
 ![image](https://i.imgur.com/9S27HkW.png)
 
-## Real Debird (optionnal)
+## 3/ Real Debird (optionnal)
 <p align="left">
   <ul>
     <li>Go to https://real-debrid.com/ and sign up</li>
@@ -37,7 +37,7 @@
 
 ![image](https://i.imgur.com/Zyf0QOt.png)
 
-## 3/ Stream
+## 4/ Stream
 
 <p align="left">
   <ul>
