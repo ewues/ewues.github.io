@@ -6,7 +6,7 @@
   <ul>
 <li>Go to https://www.stremio.com/downloads</li>
 <li>Download the relevent client for your platform (Windows/MacOS/Linux)</li>
-<li>Open Stremino and sign up with email or facebook</li>
+<li>Open Stremio and sign up with email or facebook</li>
   </ul>
 </p>
 
