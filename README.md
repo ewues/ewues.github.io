@@ -41,7 +41,7 @@
 
 <p align="left">
   <ul>
-<li>Check if Torrentio is correctly installed</li>
+<li>Check if Torrentio is correctly installed in Stremio</li>
 <li>Click the puzzle piece on the left that says "Addons"</li>
 <li>Click My Addons and scroll until you see Torrentio (or Torrentio RD if used with a debrider)</li>
 <li>If it's right, you can stream</li>
