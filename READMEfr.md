@@ -1,4 +1,4 @@
-# Setup Stremio with Torrentio (and Real-Debrid)
+# Mettre en place Stremio avec Torrentio (et Real-Debrid)
 
 ## 1/ Stremio
 
@@ -37,22 +37,22 @@
 
 ![image](https://i.imgur.com/Zyf0QOt.png)
 
-## 4/ Stream
+## 4/ Stream !
 
 <p align="left">
   <ul>
-<li>Check if Torrentio is correctly installed in Stremio</li>
-<li>Click the puzzle piece on the left that says "Addons"</li>
-<li>Click My Addons and scroll until you see Torrentio (or Torrentio RD if used with a debrider)</li>
-<li>If it's right, you can stream</li>
-<li>Go to Discover or use the search bar to find what you want</li>
-<li>Click on a Movie or TV show and click "Show"</li>
+<li>Vérifier si Torrentio est correctement installé dans Stremio</li>
+<li>Cliquer sur l'icone puzzle "Addons" sur la gauche</li>
+<li>Cliquer sur "Mes Addons" et descendre jusqu'à voir Torrentio (ou Torrentio RD si utilisation avec un debrideur)</li>
+<li>Si c'est bon, vous pouvez streamer</li>
+<li>Aller sur l'onglet Découvrir ou utiliser la barre de recherche pour trouver ce que vous voulez</li>
+<li>Cliquer sur un film ou une série, puis cliquer sur "Voir"</li>
 <li>You should now see Torrentio - "Quality"</li>
 <li>Now search for whatever movies/series you want and wait for the Addon to load links.</li>
   </ul>
 </p>
 
-Note: VPN usage is strongly advised if not using a debrider.
+Note: L'utilisation d'un VPN est fortement recommandé sur vous n'utilisez pas de débrideur.
 
 ![image](https://i.imgur.com/m4SlP6O.png)
 
