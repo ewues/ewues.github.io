@@ -16,8 +16,8 @@
 <p align="left">
   <ul>
     <li>Aller sur https://torrentio.strem.fun/configure</li>
-<li>Choisir ses préférences dans les fournisseurs, la ualité, la langue étrangère etc</li>
-<li>Choisir d'installer Torentio avec ou sans débrideur. Personellement j'utilise Real-Debird pour connecter directement sur un serveur au lieu de partager mon IP publiquement en p2p et aussi pour gagner en rapidité.</li>
+<li>Choisir ses préférences dans les fournisseurs, la qualité, la langue étrangère etc</li>
+<li>Choisir d'installer Torentio avec ou sans débrideur. Personellement j'utilise Real-Debird pour me connecter directement sur un serveur au lieu de partager mon IP publiquement en p2p et aussi pour gagner en rapidité.</li>
 <li>Pour installer avec Real-Rebird suivre les étapes d'après.</li>
   </ul>
 </p>
@@ -27,10 +27,10 @@
 ## 3/ Real Debird (optionnal)
 <p align="left">
   <ul>
-    <li>Go to https://real-debrid.com/ and sign up</li>
-<li>Go to Premium offers, choose a package and subscribe</li>
-<li>Grab your API key here : https://real-debrid.com/apitoken</li>
-<li>Copy the API Key and go back to Torrentio and paste it under RealDebird API Key</li>
+    <li>Aller sur https://real-debrid.com/ and créer un compte (ou se connecter)</li>
+<li>Aller sur les offres Premium, choisir un plan et s'abonner.</li>
+<li>Récupérer la clé API ici : https://real-debrid.com/apitoken</li>
+<li>Copier la clé API et retourner sur la page de setup Torrentio et coller sous Real-Debird API Key</li>
 <li>Install</li>
   </ul>
 </p>
