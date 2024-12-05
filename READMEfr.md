@@ -4,9 +4,9 @@
 
 <p align="left">
   <ul>
-<li>Go to https://www.stremio.com/downloads</li>
-<li>Télécharger le logiciel pour votre plateforme (Windows/MacOS/Linux)</li>
-<li>Ouvrez Stremio et créez un compte (connectez-vous sinon)</li>
+<li>Aller sur https://www.stremio.com/downloads</li>
+<li>Télécharger le logiciel pour la plateforme voulue (Windows/MacOS/Linux)</li>
+<li>Ouvrir Stremio et créer un compte (connexion sinon)</li>
   </ul>
 </p>
 
@@ -15,10 +15,10 @@
 ## 2/ Torrentio
 <p align="left">
   <ul>
-    <li>Go to https://torrentio.strem.fun/configure</li>
-<li>Choose your options for providers, quality, foreign language etc</li>
-<li>You can now choose to install Torrentio without a Debird Provider. Personally I use Real-Debird to connect directly to a server instead of having my IP shared in p2p and to speed up performance.</li>
-<li>To install with Real Rebird follow the next steps.</li>
+    <li>Aller sur https://torrentio.strem.fun/configure</li>
+<li>Choisir ses préférences dans les fournisseurs, la ualité, la langue étrangère etc</li>
+<li>Choisir d'installer Torentio avec ou sans débrideur. Personellement j'utilise Real-Debird pour connecter directement sur un serveur au lieu de partager mon IP publiquement en p2p et aussi pour gagner en rapidité.</li>
+<li>Pour installer avec Real-Rebird suivre les étapes d'après.</li>
   </ul>
 </p>
 
